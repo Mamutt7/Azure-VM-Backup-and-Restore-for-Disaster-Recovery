@@ -22,3 +22,9 @@ Retain backup taken every day for 30 Day(s)
 
 Here i run an on-demand backup for the `BackupRestore-Project-VM`
 
+![image](https://github.com/user-attachments/assets/cdb743b0-4529-4246-94b7-4231fde4a337)
+Now to simulate a disaster scenario, I deleted the `BackupRestore-Project-VM` after running a on-demand backup.
+
+![image](https://github.com/user-attachments/assets/ff3864b8-ef57-4d0a-8f4a-6a5ed2c7e801)
+Here I configured to restore the VM previously deleted as well as creating a staging location `stagingbackupstorage1` (an issue i ran into while initially trying to start the restore where there was no staging location options.)
+
