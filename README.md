@@ -17,6 +17,8 @@ Retain instant recovery snapshot(s) for 10 day(s)
 Retain backup taken every day for 30 Day(s)
 
 <img width="1344" alt="image" src="https://github.com/user-attachments/assets/77d1f369-d1c8-4786-a701-8a7276744806" />
+
 ![image](https://github.com/user-attachments/assets/ce9248a2-63c6-4c3f-b0f6-86b070bd2e2d)
+
 Here i run an on-demand backup for the `BackupRestore-Project-VM`
 
